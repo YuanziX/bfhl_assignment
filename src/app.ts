@@ -26,7 +26,7 @@ const swaggerOptions = {
     },
     servers: [
       {
-        url: "http://localhost:3000",
+        url: "https://bajaj.subhadeep.xyz",
       },
     ],
   },
