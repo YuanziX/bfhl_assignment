@@ -26,6 +26,8 @@ exports.bfhlRouter = (0, express_1.Router)();
  *                 description: Array of strings containing numbers, alphabets, or special characters
  *             required:
  *               - arr
+ *           example:
+ *             arr: ["2", "a", "y", "4", "&", "-", "*", "5", "92", "b"]
  *     responses:
  *       200:
  *         description: Processed data successfully returned
